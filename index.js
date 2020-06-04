@@ -1,5 +1,4 @@
 const fs = require("fs");
-const axios = require("axios");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 const util = ("util");
@@ -53,7 +52,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    inquirer.prompt(questions);
+    inquirer.prompt(questions.message);
 }
 
 // function call to initialize program
