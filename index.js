@@ -48,11 +48,14 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    const generate  = generateMarkdown.generateMarkdown(data);
+
+    writeFileAsync(fileName, generate);
 }
 
 // function to initialize program
 function init() {
-    inquirer.prompt(questions.message);
+    inquirer.prompt(questions);
 }
 
 // function call to initialize program
