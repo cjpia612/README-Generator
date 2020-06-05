@@ -14,32 +14,32 @@ const questions = [
     },
     {
         type: "input",
-        name: "Title",
+        name: "title",
         message: "Enter desired title for project"
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "Enter a short description of project"
     },
     {
         type: "input",
-        name: "Installation ",
+        name: "installation ",
         message: "Enter desired title for project"
     },
     {
         type: "input",
-        name: "Usage",
+        name: "usage",
         message: "Provide user instructions"
     },
     {
         type: "input",
-        name: "Contributing",
+        name: "contributing",
         message: "Enter names of project collaborators"
     },
     {
         type: "input",
-        name: "Tests",
+        name: "tests",
         message: "Include any requirements to run tests"
     },
 
