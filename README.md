@@ -1,11 +1,12 @@
 
-  # Lets README
+  # What A Good README
 
   ## Description
 
-  Using node.js, we dynamically create a README.md file
+  Dynamically generate README.md using node.js
 
   ## Table of Contents
+  
     * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
@@ -27,5 +28,5 @@
 
   ## Tests
 
-  N/A
+  No requirements, but test often!
 
