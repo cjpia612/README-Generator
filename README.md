@@ -1,9 +1,9 @@
 
-  # What a Good README
+  # What A Good README
 
   ## Description
 
-  Dynamically create README.md using node.js
+  Dynamically create README.md file using node.js
 
   ## Table of Contents
   
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  Open your terminal and node index.js
+  Open the terminal and node index.js
 
   ## Contributing 
 
