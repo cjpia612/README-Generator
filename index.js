@@ -25,7 +25,7 @@ const questions = [
     {
         type: "input",
         name: "installation ",
-        message: "Enter desired title for project"
+        message: "Enter installation steps"
     },
     {
         type: "input",
