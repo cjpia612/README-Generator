@@ -1,9 +1,9 @@
 
-  # What A Good README
+  # What a Good README
 
   ## Description
 
-  Dynamically generate README.md using node.js
+  Dynamically create README.md using node.js
 
   ## Table of Contents
   
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  No specific instructions
+  Open your terminal and node index.js
 
   ## Contributing 
 
@@ -28,5 +28,5 @@
 
   ## Tests
 
-  No requirements, but test often!
+  Test often!
 
